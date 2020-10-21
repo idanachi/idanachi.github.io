@@ -948,6 +948,10 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   background: #F0F0F0;
 }
 
+.services-content > p {
+  font-size: 18px;
+}
+
 .article-item {
   padding: 20px 70px 20px 125px;
   transition: all 0.3s ease-in-out 0s;
